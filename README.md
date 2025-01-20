@@ -1,4 +1,4 @@
-# SPI-and-SOCI-spetcral-index
+# SPI-and-SOCI-spectral-index
 
 **Developing novel spectral indices for precise estimation of soil pH and organic carbon with hyperspectral data and machine learning**
 
